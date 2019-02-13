@@ -1,1 +1,2 @@
 # store_manager_reactRedux
+[![Maintainability](https://api.codeclimate.com/v1/badges/8e09da22bcf3d846f043/maintainability?branch=develop)](https://codeclimate.com/github/julietezekwe/store_manager_reactRedux/maintainability?branch=develop) [![Test Coverage](https://api.codeclimate.com/v1/badges/8e09da22bcf3d846f043/test_coverage?branch=develop)](https://codeclimate.com/github/julietezekwe/store_manager_reactRedux/test_coverage?branch=develop)
